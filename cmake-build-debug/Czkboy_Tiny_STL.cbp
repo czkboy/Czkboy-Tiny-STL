@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Czkboy_Tiny_STL"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main.cpp">
+				<Option output="/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/main.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 main.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main.cpp/fast">
+				<Option output="/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/main.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 main.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Searchmain.cpp">
+				<Option output="/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Searchmain.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 Searchmain.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Searchmain.cpp/fast">
+				<Option output="/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Searchmain.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 Searchmain.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Myqueue.cpp">
+				<Option output="/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Myqueue.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 Myqueue.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Myqueue.cpp/fast">
+				<Option output="/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Myqueue.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 Myqueue.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Mazemain.cpp">
+				<Option output="/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Mazemain.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 Mazemain.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Mazemain.cpp/fast">
+				<Option output="/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Mazemain.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 Mazemain.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Maze.cpp">
+				<Option output="/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Maze.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 Maze.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Maze.cpp/fast">
+				<Option output="/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Maze.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 Maze.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/k/CLionProjects/Czkboy-Tiny-STL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/k/CLionProjects/Czkboy-Tiny-STL/Maze.cpp">
+			<Option target="Maze.cpp"/>
+		</Unit>
+		<Unit filename="/Users/k/CLionProjects/Czkboy-Tiny-STL/Maze.hpp">
+			<Option target="Maze.cpp"/>
+		</Unit>
+		<Unit filename="/Users/k/CLionProjects/Czkboy-Tiny-STL/Mazemain.cpp">
+			<Option target="Mazemain.cpp"/>
+		</Unit>
+		<Unit filename="/Users/k/CLionProjects/Czkboy-Tiny-STL/Myqueue.cpp">
+			<Option target="Myqueue.cpp"/>
+		</Unit>
+		<Unit filename="/Users/k/CLionProjects/Czkboy-Tiny-STL/Myqueue.h">
+			<Option target="Myqueue.cpp"/>
+		</Unit>
+		<Unit filename="/Users/k/CLionProjects/Czkboy-Tiny-STL/Searchmain.cpp">
+			<Option target="Searchmain.cpp"/>
+		</Unit>
+		<Unit filename="/Users/k/CLionProjects/Czkboy-Tiny-STL/main.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/Users/k/CLionProjects/Czkboy-Tiny-STL/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
